@@ -5,7 +5,7 @@
 - 🎓 Full-Stack Developer
 - 🐺 Strong interest in Sport, art and Books
 - 💬 Ask me about my endless love for psychology books
-- ⚡ Fun fact: I've played football for almost 15 years!
+- 🌱 Fun fact: I've played football for almost 15 years!
 - 📫 [Contact me through Linkedin](www.linkedin.com/in/nate-tklay-arafayne-20898925a)
 
 ### 🧰 Languages and Tools
@@ -34,5 +34,7 @@
 
 #
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NateAra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"></p> 
+<p align="center" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NateAra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact">
+</p> 
    
