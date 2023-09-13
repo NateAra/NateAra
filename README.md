@@ -8,6 +8,8 @@
 - 🌱 Fun fact: I've played football for almost 15 years!
 - 📫 [Contact me through Linkedin](www.linkedin.com/in/nate-tklay-arafayne-20898925a)
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -23,7 +25,13 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Microsoft Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<br />
+
+<br/>
+
+#
+
+### Project I'm Working on:
+[GameFinder (Personal)](https://github.com/Nameless-Devs/echoboard) | [EchoBoard (Salt Team)](https://github.com/NateAra/GameFinder)
 
 #
 
