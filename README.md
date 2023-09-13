@@ -1,6 +1,12 @@
-# 🧑🏽‍💻 Nate Ara
+# Hei, I'm Nate Ara 🧑🏽‍💻
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Digital Craftsman`**
+- 📍 From Norway
+- 🎓 Full-Stack Developer
+- 🐺 Strong interest in Sport, art and Books
+- 💬 Ask me about my endless love for psychology books
+- ⚡ Fun fact: I've played football for almost 15 years!
+- 📫 [Contact me through Linkedin](www.linkedin.com/in/nate-tklay-arafayne-20898925a)
 
 ### 🧰 Languages and Tools
 
@@ -24,4 +30,9 @@
 <details>
  <summary><h3>🪖 Nate's Coding Journey</h3></summary>
    As a Full-Stack developer, I truly enjoy solving complex problems and I'm constantly embracing new knowledge. My background is in the military, but I found myself increasingly drawn to technology and coding. Following this pull, I shifted gears into Full-Stack Development. Now, I use the discipline from my military days and my endless thirst for learning to tackle each day's coding challenges. It's this unique blend of experience and my love for learning that keeps me excited in the ever-changing field of tech.
+</details>
+
+#
+
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NateAra&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"></p> 
    
