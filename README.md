@@ -3,9 +3,7 @@
 **`Digital Craftsman`**
 - 📍 From Norway
 - 🎓 Full-Stack Developer
-- 🐺 Strong interest in Sport, art and Books
-- 💬 Ask me about my endless love for psychology books
-- 🌱 Fun fact: I've played football for almost 15 years!
+- 🐺 Strong interest in Reading, Build Applications and Sports
 - 📫 [Contact me through Linkedin](www.linkedin.com/in/nate-tklay-arafayne-20898925a)
 
 #
@@ -31,7 +29,7 @@
 #
 
 ### Project I'm Working on:
-[GameFinder (Personal)](https://github.com/Nameless-Devs/echoboard) | [EchoBoard (Salt Team)](https://github.com/NateAra/GameFinder)
+[EchoBoard (Salt Team)](https://github.com/Nameless-Devs/echoboard) | [GameFinder (Personal)](https://github.com/NateAra/GameFinder)
 
 #
 
