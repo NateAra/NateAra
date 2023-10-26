@@ -4,7 +4,7 @@
 - 📍 From Norway
 - 🎓 Full-Stack Developer
 - 🐺 Strong interest in Reading, Build Applications and Sports
-- 📫 [Contact me through Linkedin](www.linkedin.com/in/nate-tklay-arafayne-20898925a)
+- 📫 [Contact me through Linkedin](https://www.linkedin.com/in/nate-tklay-arafayne-20898925a)
 
 #
 
