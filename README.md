@@ -29,7 +29,7 @@
 #
 
 ### Project I'm Working on:
-[EchoBoard (Salt Team)](https://github.com/Nameless-Devs/echoboard) | [GameFinder (Personal)](https://github.com/NateAra/GameFinder)
+[EchoBoard (Salt Team)](https://github.com/Nameless-Devs/echoboard) |
 
 #
 
