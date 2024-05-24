@@ -1,12 +1,13 @@
 # Hei, I'm Nate Ara 🧑🏽‍💻
 
 **`Digital Craftsman`**
+
 - 📍 From Norway
 - 🎓 Full-Stack Developer
-- 🐺 Strong interest in Reading, Build Applications and Sports
-- 📫 [Contact me through Linkedin](https://www.linkedin.com/in/nate-tklay-arafayne-20898925a)
+- 🐺 Strong interest in Reading, Building Applications, and Sports
+- 📫 [Contact me through LinkedIn](https://www.linkedin.com/in/nate-tklay-arafayne-20898925a)
 
-#
+---
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -40,26 +41,30 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
-#
+---
 
-### Project I'm Working on:
-[EchoBoard (Salt Team)](https://github.com/Nameless-Devs/echoboard) |
+### Projects I'm Working On:
+- [EchoBoard (Salt Team)](https://github.com/Nameless-Devs/echoboard)
 
-#
+---
 
 <details>
- <summary><h3>🪖 Nate's Coding Journey</h3></summary>
-   As a Full-Stack developer, I truly enjoy solving complex problems and I'm constantly embracing new knowledge. My background is in the military, but I found myself increasingly drawn to technology and coding. Following this pull, I shifted gears into Full-Stack Development. Now, I use the discipline from my military days and my endless thirst for learning to tackle each day's coding challenges. It's this unique blend of experience and my love for learning that keeps me excited in the ever-changing field of tech.
+ <summary>
+  <h3>🪖 Nate's Coding Journey</h3>
+ </summary>
+   As a Full-Stack Developer, I thrive on solving complex problems and continuously embracing new knowledge. My journey began in the military, where I developed discipline and resilience. However, my passion for technology and coding eventually led me to transition into Full-Stack Development. Today, I harness the discipline from my military background and my insatiable curiosity to conquer daily coding challenges. This unique blend of experiences fuels my excitement and drive in the ever-evolving tech landscape.
 </details>
 
-#
+---
+
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-right: 10px;"/>
  <br/>
  <img src="https://github-readme-stats.vercel.app/api?username=NateAra&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-left: 10px;"/>
 </div>
 
-#
+---
+
 <div align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=NateAra&icon=0&color=12" alt="Visit Count"/>
