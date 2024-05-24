@@ -55,13 +55,13 @@
 #
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-right: 10px;"/>
- 
  <br/>
  <img src="https://github-readme-stats.vercel.app/api?username=NateAra&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-left: 10px;"/>
-  
 </div>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=NateAra&icon=0&color=12)](https://visitcount.itsvg.in)
-   
+#
+<div align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=NateAra&icon=0&color=12" alt="Visit Count"/>
+  </a>
+</div>
