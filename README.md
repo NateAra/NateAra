@@ -44,8 +44,15 @@
 
 ---
 
-### Projects I'm Working On:
-- [EchoBoard (Salt Team)](https://github.com/Nameless-Devs/echoboard)
+### 🚀 Projects I've Worked On:
+- **[Lyrigator - Lyrics Generator App](https://github.com/AnastasiaKurayshevich/nameless_lyrics_app)**:
+  A powerful AI-driven song lyrics generator application, created as a final graduation project. It offers features like lyrics customization and song management.
+  
+- **[GameFinder 🎮](https://github.com/YourUsername/GameFinder)**:
+  Your ultimate destination for discovering new video games tailored to your preferences. Built with React, Vite, Express.js, and using the Rawg.io API for game data, GameFinder offers a seamless user experience.
+
+- **[EchoBoard](https://github.com/Nameless-Devs/echoboard)**:
+  A platform designed to address workplace challenges by facilitating open communication and problem-solving. It features problem visibility, voting, collaboration, and solution testing, aiming to foster a culture of innovation and continuous improvement.
 
 ---
 
