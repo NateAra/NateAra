@@ -66,7 +66,7 @@
 ---
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAra&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="margin-right: 10px;"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-right: 10px;"/>
  <br/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NateAra&theme=dark&hide_border=false"/>
 </div>
