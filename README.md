@@ -46,7 +46,7 @@
 
 ### 🚀 Projects I've Worked On:
 - **[Lyrigator - Lyrics Generator App](https://github.com/AnastasiaKurayshevich/nameless_lyrics_app)**:
-  A powerful AI-driven song lyrics generator application, created as a final graduation project. It offers features like lyrics customization and song management.
+  A powerful AI-driven song lyrics generator application, created as a final graduation project. It offers features like lyrics customization and song management. **Note:** The lyrics generation feature is currenly shut down for use. but the website is still functional. Please contact me at [NateArafayne@gmail.com](natearafayne@gmail.com) for more information or assistance.
   
 - **[GameFinder 🎮](https://github.com/YourUsername/GameFinder)**:
   Your ultimate destination for discovering new video games tailored to your preferences. Built with React, Vite, Express.js, and using the Rawg.io API for game data, GameFinder offers a seamless user experience.
