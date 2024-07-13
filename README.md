@@ -44,15 +44,12 @@
 
 ---
 
-### 🚀 Projects I've Worked On:
-- **[Lyrigator - Lyrics Generator App](https://github.com/AnastasiaKurayshevich/nameless_lyrics_app)**:
-  A powerful AI-driven song lyrics generator application, created as a final graduation project. It offers features like lyrics customization and song management. **Note:** The lyrics generation feature is currenly shut down for use. but the website is still functional. Please contact me at [NateArafayne@gmail.com](natearafayne@gmail.com) for more information or assistance.
+### 🚀 Projects I'm Currently Working On:
+- **[BugWatch](https://github.com/NateAra/BugWatch)**:
+  A Simple bug tracking and management application designed to streamline the reporting and resolution of software issues.
   
-- **[GameFinder 🎮](https://github.com/YourUsername/GameFinder)**:
-  Your ultimate destination for discovering new video games tailored to your preferences. Built with React, Vite, Express.js, and using the Rawg.io API for game data, GameFinder offers a seamless user experience.
-
-- **[EchoBoard](https://github.com/Nameless-Devs/echoboard)**:
-  A platform designed to address workplace challenges by facilitating open communication and problem-solving. It features problem visibility, voting, collaboration, and solution testing, aiming to foster a culture of innovation and continuous improvement.
+- **[Reown](https://github.com/NateAra/Reown)**:
+  My first mobile app built with React Native, Reown is a marketplace for reselling used items. It aims to provide a user-friendly platform for people to buy and sell pre-owned goods.
 
 ---
 
