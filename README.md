@@ -67,9 +67,3 @@
 </div>
 
 ---
-
-<div align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=NateAra&icon=0&color=12" alt="Visit Count"/>
-  </a>
-</div>
