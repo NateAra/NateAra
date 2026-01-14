@@ -44,26 +44,11 @@
 
 ---
 
-### 🚀 Projects I'm Currently Working On:
-- **[BugWatch](https://github.com/NateAra/BugWatch)**:
-  A Simple bug tracking and management application designed to streamline the reporting and resolution of software issues.
-  
-- **[Reown](https://github.com/NateAra/Reown)**:
-  My first mobile app built with React Native, Reown is a marketplace for reselling used items. It aims to provide a user-friendly platform for people to buy and sell pre-owned goods.
-
----
-
 <details>
  <summary>
   <h3>🪖 Nate's Coding Journey</h3>
  </summary>
    As a Full-Stack Developer, I thrive on solving complex problems and continuously embracing new knowledge. My journey began in the military, where I developed discipline and resilience. However, my passion for technology and coding eventually led me to transition into Full-Stack Development. Today, I harness the discipline from my military background and my insatiable curiosity to conquer daily coding challenges. This unique blend of experiences fuels my excitement and drive in the ever-evolving tech landscape.
 </details>
-
----
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NateAra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin-right: 10px;"/>
-</div>
 
 ---
