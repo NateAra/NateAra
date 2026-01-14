@@ -43,12 +43,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
 ---
-
-<details>
- <summary>
-  <h3>🪖 Nate's Coding Journey</h3>
- </summary>
-   As a Full-Stack Developer, I thrive on solving complex problems and continuously embracing new knowledge. My journey began in the military, where I developed discipline and resilience. However, my passion for technology and coding eventually led me to transition into Full-Stack Development. Today, I harness the discipline from my military background and my insatiable curiosity to conquer daily coding challenges. This unique blend of experiences fuels my excitement and drive in the ever-evolving tech landscape.
-</details>
-
----
